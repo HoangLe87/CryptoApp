@@ -1,6 +1,8 @@
-Simple write and read web app to interact with the goerli bloackchain <br>
+Simple write and read web app to interact with the goerli testnet <br>
 
-Contract address: 0x4DD721098E76b43Bb6772E9Fa61BF8430A0CCc0f <br>
+Contract ERC20 via LW3 token Remix address: 0x4DD721098E76b43Bb6772E9Fa61BF8430A0CCc0f <br>
+Contract ERC721 ITM token via Hardhat address: 0x564129EBbC57DaF67624F655a29bD0A4854aEd85 <br>
+
 
 
 info: how to publish a static page to guthub:<br>
